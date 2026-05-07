@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Identity.Domain/1.0.0": {
+        "dependencies": {
+          "Shared.DomainCQRS": "1.2.0"
+        },
+        "runtime": {
+          "Identity.Domain.dll": {}
+        }
+      },
+      "Shared.DomainCQRS/1.2.0": {
+        "runtime": {
+          "lib/net8.0/SharedDomain.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Identity.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared.DomainCQRS/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uBOXf+uF8NdILoAPQQI+uEWivrc1wRUERDU4TWqGMkck8l1zgB7wJiZHJSUeZGnF+faUR+cnu43r1vFusmwyhg==",
+      "path": "shared.domaincqrs/1.2.0",
+      "hashPath": "shared.domaincqrs.1.2.0.nupkg.sha512"
+    }
+  }
+}

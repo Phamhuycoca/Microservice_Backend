@@ -1,0 +1,12 @@
+D:\Microservices\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+D:\Microservices\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+D:\Microservices\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.AssemblyReference.cache
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+D:\Microservices\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll

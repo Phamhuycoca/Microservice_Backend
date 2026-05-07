@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6gparn/bYY=",
+  "success": true,
+  "projectFilePath": "D:\\Microservices\\Identity.Domain\\Identity.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\shared.domaincqrs\\1.2.0\\shared.domaincqrs.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

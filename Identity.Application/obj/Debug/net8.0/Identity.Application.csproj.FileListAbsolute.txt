@@ -1,0 +1,17 @@
+D:\Microservices\Identity.Application\bin\Debug\net8.0\Identity.Application.deps.json
+D:\Microservices\Identity.Application\bin\Debug\net8.0\Identity.Application.dll
+D:\Microservices\Identity.Application\bin\Debug\net8.0\Identity.Application.pdb
+D:\Microservices\Identity.Application\bin\Debug\net8.0\Identity.Domain.dll
+D:\Microservices\Identity.Application\bin\Debug\net8.0\Identity.Infrastructure.dll
+D:\Microservices\Identity.Application\bin\Debug\net8.0\Identity.Infrastructure.pdb
+D:\Microservices\Identity.Application\bin\Debug\net8.0\Identity.Domain.pdb
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.Application.csproj.AssemblyReference.cache
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.Application.AssemblyInfoInputs.cache
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.Application.AssemblyInfo.cs
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.Application.csproj.CoreCompileInputs.cache
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.59D253F8.Up2Date
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.Application.dll
+D:\Microservices\Identity.Application\obj\Debug\net8.0\refint\Identity.Application.dll
+D:\Microservices\Identity.Application\obj\Debug\net8.0\Identity.Application.pdb
+D:\Microservices\Identity.Application\obj\Debug\net8.0\ref\Identity.Application.dll
